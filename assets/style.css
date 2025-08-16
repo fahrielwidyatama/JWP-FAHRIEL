@@ -1,0 +1,4 @@
+/* assets/style.css */
+.task-title.done { text-decoration: line-through; opacity: .7; }
+.list-group-item { transition: background-color .2s ease; }
+.list-group-item:hover { background-color: #f8f9fa; }
