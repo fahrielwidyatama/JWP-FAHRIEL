@@ -144,11 +144,11 @@ $msg = $_GET['msg']??'';
           </div>
         </div>
         <div class="col-12 col-md-4">
-          <!-- <div class="btn-group w-100" role="group" aria-label="Filter">
+          <div class="btn-group w-100" role="group" aria-label="Filter">
             <button class="btn btn-outline-secondary active" data-filter="all">Semua</button>
             <button class="btn btn-outline-secondary" data-filter="active">Aktif</button>
             <button class="btn btn-outline-secondary" data-filter="done">Selesai</button>
-          </div> -->
+          </div>
         </div>
         <div class="col-12 col-md-4 d-flex gap-2">
           <select id="sort" class="form-select">
