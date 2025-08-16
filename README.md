@@ -2,7 +2,7 @@
 
 ## 1. Informasi Umum
 - **Nama Aplikasi**: To-Do List
-- **Dibuat oleh**: [Nama Peserta Ujian]
+- **Dibuat oleh**: Fahriel
 - **Skema**: Junior Web Programmer – Uji Kompetensi KKNl
 - **Teknologi yang digunakan**:
   - PHP 8+
